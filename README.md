@@ -1,5 +1,7 @@
 # E-commarce Dashboard ✨
 
+In this project, I'm analyze the dataset from some E-commarce to find the insight in this data and visualize with make two question to get business insight from the data.
+
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.12.4
